@@ -1,4 +1,4 @@
-# Student Buddy – AI Powered Chrome Extension
+# Student Buddy – AI-Powered Chrome Extension
 Student Buddy is a Chrome extension designed to help students learn more efficiently while browsing.  
 It can **summarize any article** from the current webpage and **answer student questions** instantly using the **Gemini 2.5 Flash API** — without switching tabs.
 
@@ -15,7 +15,6 @@ It can **summarize any article** from the current webpage and **answer student q
 | Frontend | HTML, CSS, JavaScript |
 | Chrome Extension | Manifest V3, Content Scripts, Message Passing |
 | AI Model | Google Gemini 2.5 Flash API |
-| UI Style | Modern rounded minimal layout using Satoshi font |
 
 ## 🔑 Setup Instructions (Required to Run)
 This project requires a **Gemini API key**.
@@ -34,6 +33,6 @@ This project requires a **Gemini API key**.
 6. Open any webpage → Click the extension icon → It opens in Side Panel 🎉
 
 ## 🖼️ UI Preview 
-1. ![alt text](image.png)
-2. ![alt text](image-1.png)
-3. ![alt text](image-2.png)
+1. (image.png)
+2. (image-1.png)
+3. (image-2.png)
