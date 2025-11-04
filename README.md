@@ -36,6 +36,7 @@ This project requires a **Gemini API key**.
 <div align="center">
   <img src="image.png" width="420">
   <img src="image-1.png" width="420">
-  <img src="image-1.png" width="420">
+  <img src="image-2.png" width="420">
 </div>
+
 
