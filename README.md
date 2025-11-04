@@ -33,6 +33,9 @@ This project requires a **Gemini API key**.
 6. Open any webpage → Click the extension icon → It opens in Side Panel 🎉
 
 ## 🖼️ UI Preview 
-1. (image.png)
-2. (image-1.png)
-3. (image-2.png)
+<div align="center">
+  <img src="image.png" width="420">
+  <img src="image-1.png" width="420">
+  <img src="image-1.png" width="420">
+</div>
+
